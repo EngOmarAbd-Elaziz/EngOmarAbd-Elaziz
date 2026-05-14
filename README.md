@@ -97,19 +97,19 @@ and still call it fun 🎮😭
 <p align="center">
 
 <a href="https://facebook.com/omer.rabeh.5">
-  <img src="https://img.shields.io/badge/Facebook-1E1E2E?style=for-the-badge&logo=facebook&logoColor=7AA2F7" />
+  <img src="https://img.shields.io/badge/▶ FACEBOOK-1877F2?style=for-the-badge&logoColor=white" />
 </a>
 
 <a href="https://instagram.com/x0_maroo_0x">
-  <img src="https://img.shields.io/badge/Instagram-1E1E2E?style=for-the-badge&logo=instagram&logoColor=F38BA8" />
+  <img src="https://img.shields.io/badge/▶ INSTAGRAM-E4405F?style=for-the-badge&logoColor=white" />
 </a>
 
 <a href="https://linkedin.com/in/omar-abdelaziz-gamedev">
-  <img src="https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=89B4FA" />
+  <img src="https://img.shields.io/badge/▶ LINKEDIN-0A66C2?style=for-the-badge&logoColor=white" />
 </a>
 
 <a href="https://engomarabd-elaziz.github.io/My-Portofolio/">
-  <img src="https://img.shields.io/badge/Portfolio-1E1E2E?style=for-the-badge&logo=firefox&logoColor=F9E2AF" />
+  <img src="https://img.shields.io/badge/▶ PORTFOLIO-FF7139?style=for-the-badge&logoColor=white" />
 </a>
 
 </p>
