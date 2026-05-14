@@ -134,19 +134,18 @@ and still call it fun 🎮😭
 </div>
 
 # 📊 GitHub Stats:
+
+
+<img src="https://github-readme-stats.shion.dev/api?username=EngOmarAbd-Elaziz&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+
+<br/>
 <div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=EngOmarAbd-Elaziz&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=EngOmarAbd-Elaziz&theme=midnight-purple&hide_border=false" />
-
-<br/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=EngOmarAbd-Elaziz&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-
+  <img src="https://streak-stats.demolab.com/?user=EngOmarAbd-Elaziz&theme=github-dark&hide_border=true" />
 </div>
+<br/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=EngOmarAbd-Elaziz&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+
 
 ---
 <p align="center">
